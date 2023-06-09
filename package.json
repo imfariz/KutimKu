@@ -1,0 +1,20 @@
+{
+  "name": "kutimku",
+  "version": "1.0.0",
+  "description": "An Api that store about Kutim Statistic contains Weather and population",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "lint": "eslint ./"
+  },
+  "author": "Fariz Ramadhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
