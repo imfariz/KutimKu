@@ -1,5 +1,5 @@
 const server = require('./Infrastructures/http/server');
 
-const port = 3000;
+const port = 4848;
 
 server.listen(port);
